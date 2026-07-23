@@ -1,4 +1,4 @@
-{:itonami.blueprint/id "cloud-itonami-0162"
+{:itonami.blueprint/id "cloud-itonami-isic-0162"
  :itonami.blueprint/name "Community Agronomy Support"
  :itonami.blueprint/isic-rev5 "0162"
  :itonami.blueprint/domain :agronomy/support
